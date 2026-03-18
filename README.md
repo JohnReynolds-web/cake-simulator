@@ -1,1 +1,1 @@
-I mostly made this as practise for python.
+I mostly made this as practise for python. This is a cake simulator where you buy dough make bread and then either sell the bread for cash or make cake for even more profit. It has upgrades which decreases cooktime, gives bread multiplier or increases sell prices. This game is my first python project so it sadly doesnt use any classes and isnt very well optimized.
